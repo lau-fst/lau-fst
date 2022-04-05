@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lau-fst
 - 👀 I’m interested in computer science.
-- 🌱 I’m currently learning python and bash basics.
+- 🌱 I’m currently learning machine learning.
 - 📫 How to reach me : laurannefossat10@mail.com
 
 <!---
