@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lau-fst
-- 👀 I’m interested in computer science.
+- I’m a Computer Science student at UTC.
 
 <!---
 lau-fst/lau-fst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
