@@ -5,11 +5,11 @@ As a child, I imagined wonderful worlds made of cardboard and lots of glue, wher
 By the way, feel free to check out my projects.
 
 <a href="https://github.com/queer-frogs/froggy-and-frankie-take-a-nice-walk">
-  <img align="center" width="350" alt="Frankie and Frogie take a nice walk" src="https://github.com/user-attachments/assets/cecbd331-174b-4bd0-9e91-c4ebddb52fb3" />
+  <img align="center" width="375" alt="Frankie and Frogie take a nice walk" src="https://github.com/user-attachments/assets/cecbd331-174b-4bd0-9e91-c4ebddb52fb3" />
 </a>
 
 <a href="https://github.com/queer-frogs/undercooked">
-   <img align="center" width="350"  alt="Capture d’écran 2025-11-10 à 11 24 54" src="https://github.com/user-attachments/assets/4a2c887a-7d16-4a12-9870-7c28a8a8ce37" />
+   <img align="center" width="375"  alt="Capture d’écran 2025-11-10 à 11 24 54" src="https://github.com/user-attachments/assets/4a2c887a-7d16-4a12-9870-7c28a8a8ce37" />
 </a>
 
 
