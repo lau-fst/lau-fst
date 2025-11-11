@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lau!
 
 I have always loved creating things, drawing, painting, sculpting —you name it. 
-As a child, I imagined wonderful worlds made of cardboard and lots of glue, where my favorite characters lived the craziest adventures. Today, I study computer science at the <a href="https://www.utc.fr/">Université de Technologie de Compiègne</a> in France, and I am passionate about video game design.
+Today, I study computer science at the <a href="https://www.utc.fr/">Université de Technologie de Compiègne</a> in France, and I am passionate about video game design.
 By the way, feel free to check out my projects.
 
 <a href="https://github.com/queer-frogs/froggy-and-frankie-take-a-nice-walk">
